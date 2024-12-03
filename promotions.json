@@ -1,0 +1,77 @@
+[
+      {
+        "title": "20% off panettone muffins",
+        "description": "Buy 2 panettones and get 20% off your purchase",
+        "imageId": "panettoneMuffinImage",
+        "link": "https://example.com/panettoncitos",
+        "product": {
+          "id": "p1",
+          "name": "Panettone Muffin",
+          "price": 12.99,
+          "image": "https://via.placeholder.com/150",
+          "category": "Muffins",
+          "description": "Delicious panettone muffin",
+          "composition": "Nuestro panettoncito es un delicioso postre italiano hecho con harina, azúcar, huevos y mantequilla. Está relleno de pasas y frutas secas, y tiene un sabor dulce y suave. Es perfecto para acompañar un café o un té en la mañana."
+        }
+      },
+      {
+        "title": "10% off mini cakes",
+        "description": "Buy 3 mini cakes and get 10% off your purchase",
+        "imageId": "miniCakeImage",
+        "link": "https://example.com/minitortas",
+        "product": {
+          "id": "m1",
+          "name": "Mini Cake",
+          "price": 8.99,
+          "image": "https://via.placeholder.com/150",
+          "category": "Mini Tortas",
+          "description": "Small and delicious mini cake",
+          "composition": "Nuestra minitorta es un delicioso postre que combina la textura de una torta con la dulzura de un pastel. Está hecha con harina, azúcar, huevos y mantequilla, y tiene un sabor suave y cremoso. Está rellena de una crema de chocolate y decorada con frutas frescas."
+        }
+      },
+      {
+        "title": "Buy 1 muffin and get another one free",
+        "description": "Buy 1 muffin and get another one free. No discount code required",
+        "imageId": "muffinImage",
+        "link": "https://example.com/muffin",
+        "product": {
+          "id": "mu1",
+          "name": "Muffin",
+          "price": 5.99,
+          "image": "https://via.placeholder.com/150",
+          "category": "Muffins",
+          "description": "Classic muffin",
+          "composition": "Nuestro muffin es un delicioso postre que combina la textura de un pan con la dulzura de un pastel. Está hecho con harina, azúcar, huevos y mantequilla, y tiene un sabor suave y cremoso. Está relleno de frutas secas y nueces, y es perfecto para acompañar un café o un té en la mañana."
+        }
+      },
+      {
+        "title": "20% off cupcakes",
+        "description": "Buy 2 cupcakes and get 20% off your purchase",
+        "imageId": "cupcakeImage",
+        "link": "https://example.com/cupcakes",
+        "product": {
+          "id": "c1",
+          "name": "Cupcake",
+          "price": 3.99,
+          "image": "https://via.placeholder.com/150",
+          "category": "Cupcakes",
+          "description": "Sweet cupcake",
+          "composition": "Nuestro cupcake es un delicioso postre que combina la textura de un pan con la dulzura de un pastel. Está hecho con harina, azúcar, huevos y mantequilla, y tiene un sabor suave y cremoso. Está relleno de una crema de chocolate y decorado con frutas frescas y glaseado de azúcar."
+        }
+      },
+      {
+        "title": "10% off special cakes",
+        "description": "Buy 1 special cake and get 10% off your purchase",
+        "imageId": "specialCakeImage",
+        "link": "https://example.com/tortasespeciales",
+        "product": {
+          "id": "t1",
+          "name": "Special Cake",
+          "price": 29.99,
+          "image": "https://via.placeholder.com/150",
+          "category": "Tortas",
+          "description": "Special occasion cake",
+          "composition": "Nuestra torta es un delicioso postre que combina la textura de un pan con la dulzura de un pastel. Está hecha con harina, azúcar, huevos y mantequilla, y tiene un sabor suave y cremoso. Está rellena de una crema de chocolate y decorada con frutas frescas y glaseado de azúcar."
+        }
+      }
+    ]
